@@ -1,1 +1,1 @@
-# DIABETIC-RISK-FACTORS-PREDICTION
+Diabetes, a complex chronic condition, necessitates the prediction of risk factors for early intervention. In this study, Logistic Regression, Random Forest, K Nearest Neighbor, and Support Vector Machines, established supervised learning algorithms, will be employed for diabetes prediction
