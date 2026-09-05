@@ -1,16 +1,16 @@
                                    Predictive Analysis of Diabetic Risk Factors Using Machine Learning
-Project Overview
+                                                        Project Overview
 This project used machine learning to classify individuals into three diabetes-related categories: Non-diabetic, Pre-diabetic and Diabetic.
 The project began with a dataset containing 1,000 records and 14 variables covering demographic information, biochemical measurements and body mass index (BMI).
 Using Python and machine learning libraries, I performed data quality checks, exploratory data analysis, feature engineering, transformation and feature selection before training and evaluating several classification models.
-Four machine learning algorithms were compared:
+                                         Four machine learning algorithms were compared:
 Random Forest
 Logistic Regression
 Support Vector Classifier (SVC)
 K-Nearest Neighbours (KNN)
 The models were evaluated using accuracy, precision, recall, F1 score and cross-validation performance.
 The aim was to determine which model provided the strongest classification performance on the prepared dataset.
-Project Objective
+                                                     Project Objective
 The objective was to develop and compare machine learning classification models for identifying diabetes-related classes from demographic and biochemical features.
 The project focused on:
 Understanding the structure of the dataset.
@@ -27,7 +27,7 @@ Addressing class imbalance using SMOTE.
 Training multiple classification algorithms.
 Evaluating model performance.
 Comparing the models using multiple evaluation metrics.
-Dataset
+                                                       Dataset
 The dataset contains 1,000 records and 14 original variables.
 The variables include demographic information and biochemical measurements.
 Variables
@@ -45,7 +45,7 @@ HDL	High-density lipoprotein
 LDL	Low-density lipoprotein
 VLDL	Very-low-density lipoprotein
 BMI	Body mass index
-CLASS	Original classification
+                                             CLASS	Original classification
 The original classification contained three categories represented by:
 N — Non-diabetic
 P — Pre-diabetic
@@ -62,7 +62,7 @@ Imbalanced-learn	SMOTE class balancing
 ReliefF	Feature selection
 Jupyter Notebook	Analysis and experimentation
 Machine Learning Workflow
-The project followed these stages:
+                                   The project followed these stages:
 1. Data Understanding
 Reviewed the dataset structure, data types, descriptive statistics and variables.
 2. Data Quality Assessment
