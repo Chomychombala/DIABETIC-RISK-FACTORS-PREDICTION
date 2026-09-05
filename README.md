@@ -63,27 +63,27 @@ ReliefF	Feature selection
 Jupyter Notebook	Analysis and experimentation
 Machine Learning Workflow
                                    The project followed these stages:
-1. Data Understanding
+Data Understanding
 Reviewed the dataset structure, data types, descriptive statistics and variables.
-2. Data Quality Assessment
+ Data Quality Assessment
 Checked for missing values, null values and duplicate records.
-3. Data Cleaning
+Data Cleaning
 Standardised inconsistent categorical values.
-4. Exploratory Data Analysis
+Exploratory Data Analysis
 Examined distributions, class frequencies, outliers and relationships between numerical variables.
-5. Feature Engineering
+Feature Engineering
 Created cleaned categorical variables and transformed numerical features.
-6. Feature Selection
+Feature Selection
 Used ReliefF to assess feature relevance and remove lower-ranked features.
-7. Data Preparation
+Data Preparation
 Encoded categorical variables and separated input features from the target variable.
-8. Class Balancing
+Class Balancing
 Applied SMOTE to address class imbalance.
-9. Model Training
+Model Training
 Trained four classification algorithms.
-10. Model Evaluation
+Model Evaluation
 Compared model performance using accuracy, precision, recall, F1 score and cross-validation.
-1. Data Understanding
+Data Understanding
 The dataset was imported into Python using Pandas.
 Initial inspection showed:
 1,000 records
