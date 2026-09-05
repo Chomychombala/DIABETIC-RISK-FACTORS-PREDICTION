@@ -35,7 +35,7 @@ Model Evaluation – compared accuracy, precision, recall, F1 score and cross-va
 Key Findings
 ReliefF identified the highest-ranked features as:
                                                      
-                                                     Feature	Importance
+                                                              Feature Importance
 HbA1c	28.97%
 BMI	22.74%
 Age	15.88%
@@ -50,7 +50,7 @@ SVC	90.36%	93.00%	91.58%
 Logistic Regression	90.98%	92.33%	91.54%
 Random Forest performed best overall. In the main evaluation, it achieved 99.34% accuracy and a 98.68% cross-validation score.
                                                  
-                                                  Tools
+                                                                    Tools
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SMOTE | ReliefF | Jupyter Notebook
 
                                                  Limitations
@@ -58,7 +58,7 @@ The dataset contains 1,000 records, so further testing on larger and independent
 The high model performance also requires further validation, particularly to reduce the potential for data leakage when applying SMOTE and cross-validation.
 This project is an analytical and machine-learning exercise and should not be interpreted as a clinical diagnostic system.
                                              
-                                             Skills Demonstrated
+                                                              Skills Demonstrated
 Data cleaning and preprocessing
 Exploratory data analysis
 Feature engineering
