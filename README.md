@@ -53,7 +53,7 @@ Random Forest performed best overall. In the main evaluation, it achieved 99.34%
                                                                     Tools
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SMOTE | ReliefF | Jupyter Notebook
 
-                                                 Limitations
+                                                                  Limitations
 The dataset contains 1,000 records, so further testing on larger and independent datasets would be needed to assess generalisability.
 The high model performance also requires further validation, particularly to reduce the potential for data leakage when applying SMOTE and cross-validation.
 This project is an analytical and machine-learning exercise and should not be interpreted as a clinical diagnostic system.
